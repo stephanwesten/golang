@@ -1,5 +1,5 @@
 # Introduction
-This is an opioniated guide on naming conventions in Go. For an explanation see the Background section.
+This is an opioniated guide on naming conventions in Go. For an explanation see the [Background](#background) section.
 
 
 
